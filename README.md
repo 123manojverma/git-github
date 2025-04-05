@@ -1,2 +1,2 @@
 # git-github
-first repository
+this is a readme.md file
